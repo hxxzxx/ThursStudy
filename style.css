@@ -20,11 +20,11 @@ img{
     align-items: center;
 }
 
-.pTag{
+
+.profile{
     border:1px solid navy;
     background-color:cornsilk;
     text-align: center;
-    padding-top:10px ;
     padding-bottom: 10px;
     width:500px;
 }
@@ -33,15 +33,7 @@ img{
     border:1px solid red;
 
 }
-span{
-    font-weight: bold;
-    background-color:lightgray;
 
-}
-#title{
-    text-align: center;
-
-}
 a{
     text-decoration-line:none;
     color:black;
@@ -50,9 +42,15 @@ a:hover{
     background-color:lightpink;
     
 }
+h2{
+    text-align: center;
+
+}
+
 .hobby{
-    padding-top:10px ;
     border:1px solid navy;
     background-color:cornsilk;
-    width: 500px;
+    padding-bottom: 10px;
+    width:500px;
+    margin-top: 20px;
 }
